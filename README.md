@@ -61,4 +61,6 @@ Para iniciar o projeto, siga os passos abaixo:
 ## Conclusão
 Sinta-se à vontade para contribuir com o projeto ou reportar problemas. Para mais informações, consulte a documentação ou entre em contato com [11948750605]. Agradecemos por seu interesse!
 
+ Wesley Victor 
+
 
